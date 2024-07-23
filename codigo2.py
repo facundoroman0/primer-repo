@@ -1,3 +1,3 @@
-nombre = "Manuelita"
+nombre = "Gerardo"
 saludo = "Hola " + nombre + "!"
 print(saludo)
